@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DecortiqueurBinaire.cpp">
+    <ClCompile Include="Decortiqueur_Convertisseur_BaseN.cpp">
       <Filter>Fichiers sources</Filter>
     </ClCompile>
   </ItemGroup>
